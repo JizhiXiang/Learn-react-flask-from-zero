@@ -9,8 +9,6 @@
 目的：一方面，对自己学习的知识总结，和提高表达沟通能力；一方面，能把自己学到的知识分享给大家，也是一种有意义的事。<br/>
 
 <br/>
-先走一波广告，欢迎推广，叫上小伙伴一起学习。<br/>
-**QQ群：952211102 （为编程而生）**<br/>
 B站：https://space.bilibili.com/51723516<br/>
 csdn：https://blog.csdn.net/GreatXiang888<br/>
 github：https://github.com/JizhiXiang<br/>
